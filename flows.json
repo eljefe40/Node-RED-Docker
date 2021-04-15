@@ -10,7 +10,7 @@
         "id": "2134ffcd.e135c",
         "type": "inject",
         "z": "3af82246.3634ae",
-        "name": "",
+        "name": "foo",
         "props": [
             {
                 "p": "payload"
